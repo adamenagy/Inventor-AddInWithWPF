@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+
+  <assemblyIdentity name="MyAddInWithWpf" version="1.0.0.0"></assemblyIdentity>
+
+  <clrClass clsid="{880b4435-f9c2-4c5e-b234-d543a20b5c36}" progid="MyAddInWithWpf.StandardAddInServer" threadingModel="Both" name="MyAddInWithWpf.StandardAddInServer" runtimeVersion=""></clrClass>
+
+  <file name="MyAddInWithWpf.dll" hashalg="SHA1"></file>
+
+</assembly>

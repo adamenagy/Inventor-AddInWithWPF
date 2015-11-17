@@ -1,0 +1,14 @@
+<Addin Type="Standard">
+  <!--Created for Autodesk Inventor Version 19.0-->
+  <ClassId>{880b4435-f9c2-4c5e-b234-d543a20b5c36}</ClassId>
+  <ClientId>{880b4435-f9c2-4c5e-b234-d543a20b5c36}</ClientId>
+  <DisplayName>MyAddInWithWpf</DisplayName>
+  <Description>MyAddInWithWpf</Description>
+  <Assembly>MyAddInWithWpf.dll</Assembly>
+  <LoadOnStartUp>1</LoadOnStartUp>
+  <UserUnloadable>1</UserUnloadable>
+  <Hidden>0</Hidden>
+  <SupportedSoftwareVersionGreaterThan>18..</SupportedSoftwareVersionGreaterThan>
+  <DataVersion>1</DataVersion>
+  <UserInterfaceVersion>1</UserInterfaceVersion>
+</Addin>
